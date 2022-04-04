@@ -7,3 +7,13 @@ Far comparire gli indirizzi email solamente quando sono stati tutti generati.*/
 console.log('JS ok');
 
 
+const app = new Vue(){
+    el: #root,
+    data: {
+
+    },
+    methods: {
+
+    },
+
+}
